@@ -187,6 +187,7 @@ while True:
     print("4. List Member")
     print("5. Borrow Book")
     print("6. Retuen Book")
+    print("6. Return Book")
     print("0. Exit the portal")
 
     print("-"*50)
