@@ -186,7 +186,6 @@ while True:
     print("3. Add Member")
     print("4. List Member")
     print("5. Borrow Book")
-    print("6. Retuen Book")
     print("6. Return Book")
     print("0. Exit the portal")
 
