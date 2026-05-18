@@ -1,0 +1,34 @@
+{
+    "books": [
+        {
+            "id": "B-XjGwr",
+            "title": "Hello",
+            "author": "Parimal",
+            "total_copies": 30,
+            "available_copies": 30,
+            "added_on": "2026-05-18 13:58:38"
+        },
+        {
+            "id": "B-6cSCs",
+            "title": "HELL",
+            "author": "DHRUVAL",
+            "total_copies": 60,
+            "available_copies": 59,
+            "added_on": "2026-05-18 13:59:59"
+        }
+    ],
+    "members": [
+        {
+            "id": "M-xif0p",
+            "name": "Parimal",
+            "email": "isamaliyaparimal2@gmail.com",
+            "borrowed": [
+                {
+                    "book_id": "B-6cSCs",
+                    "title": "HELL",
+                    "Borrow_on": "2026-05-18 14:43:26"
+                }
+            ]
+        }
+    ]
+}
